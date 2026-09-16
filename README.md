@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à UMA : oracles optimistes, assertions, disputing, DVM et vérification. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # UMA Protocol
 
 <p align="center">
